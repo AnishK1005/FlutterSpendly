@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "1087771590173",
+      "project_id": "spendly-354c8",
+      "storage_bucket": "spendly-354c8.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1087771590173:android:5375ce85ae203bd209d0f4",
+          "android_client_info": {
+            "package_name": "com.example.flutter_application_1"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDkgqu-3Rz4UAV_qNc1nKc2qfWkc4sRL8c"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
